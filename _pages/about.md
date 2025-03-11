@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Rongjie Wang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+王荣杰
+博士，博士生导师，深圳市南山区领航人才，智能部创新所高级工程师，主要研究方向为：医疗多模态大模型、组学数据大模型、基因编码、计算机视觉等。参与AVS基因及蛋白质质谱数据压缩、新一代人工智能产业联盟AI医疗标准制定工作。参与实验室重大公关任务多项，申请发表多项软著、专利及期刊会议文章。
+![image](https://github.com/user-attachments/assets/6c75e006-770f-463e-88c4-08a156ada84a)
+
+教育背景
+2012-2019 哈尔滨工业大学 计算机应用技术 博士
+2007-2010 哈尔滨工业大学 数学与应用数学 硕士
+2002-2006 黑龙江大学 数学与应用数学 本科
 
 A data-driven personal website
 ======
